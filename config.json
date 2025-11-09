@@ -27,6 +27,25 @@
       "dueDate": "2025-10-10"
     },
     {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create REST APIs using FastAPI: endpoints, validation, and async handlers",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2025-11-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "text"
+        }
+      ]
+    },
+    {
       "id": "python-classes",
       "title": "Python Classes",
       "description": "Defining and using classes in Python",
